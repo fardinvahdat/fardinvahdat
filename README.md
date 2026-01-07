@@ -13,7 +13,6 @@ with modern frontend architectures and Web3 systems
 📫 vahdatfardin@gmail.com  
 
 [LinkedIn](https://linkedin.com/in/fardinvahdat) ·
-[GitHub](https://github.com/fardinvahdat) ·
 [Medium](https://medium.com/@vahdatfardin)
 
 </div>
