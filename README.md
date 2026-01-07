@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://avatars.githubusercontent.com/u/00000000?v=4](https://avatars.githubusercontent.com/u/78705820?v=4)" width="120" style="border-radius: 50%;" />
+<img src="https://avatars.githubusercontent.com/u/78705820?v=4" width="120" style="border-radius: 50%;" />
 
 # Fardin Vahdat
 
@@ -85,17 +85,17 @@ Enterprise-grade Web3 starter built with modern React tooling.
 
 ## 🛠 Tech Stack
 
-**Frontend**
+**Frontend**: 
 Vue 3 · Nuxt 3 · React · Next.js · TypeScript · JavaScript
 HTML · CSS · Tailwind · SCSS
 
-**State & Architecture**
+**State & Architecture**: 
 Pinia · Zustand · Component Architecture · Design Patterns
 
-**Performance & Quality**
+**Performance & Quality**: 
 Vite · Vitest · Jest · Lighthouse · PWA · Service Workers
 
-**Web3**
+**Web3**: 
 Ethers · Viem · Wagmi · WalletConnect · MetaMask · IPFS
 
 ---
