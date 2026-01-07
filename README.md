@@ -116,5 +116,6 @@ or Web3 engineering — feel free to reach out.
 
 **Email:** vahdatfardin@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/fardinvahdat
+
 **Medium:** https://medium.com/@vahdatfardin
 
