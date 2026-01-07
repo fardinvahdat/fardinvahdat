@@ -115,5 +115,6 @@ If you’re interested in frontend architecture, complex UI systems,
 or Web3 engineering — feel free to reach out.
 
 **Email:** vahdatfardin@gmail.com  
-**GitHub:** https://github.com/fardinvahdat  
+**LinkedIn:** https://www.linkedin.com/in/fardinvahdat
+**Medium:** https://medium.com/@vahdatfardin
 
