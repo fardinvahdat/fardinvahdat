@@ -9,7 +9,7 @@
 Building complex, high-performance web applications  
 with modern frontend architectures and Web3 systems
 
-📍 Istanbul, Turkey · 🌍 Remote  
+🌍 Remote  
 📫 vahdatfardin@gmail.com  
 
 [LinkedIn](https://linkedin.com/in/fardinvahdat) ·
