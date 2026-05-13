@@ -43,6 +43,25 @@ systems that stay maintainable as products grow.
 
 ## 🚀 Selected Projects
 
+### 🛠 x402trace — Local CLI debugger for x402 (HTTP-402-based agentic payments)
+
+Open-source TypeScript CLI published on npm. Catches the canonical
+[coinbase/x402#1062](https://github.com/coinbase/x402/issues/1062) reconciliation gap
+(wallet debited on-chain but the server thinks payment failed), pre-flights wallets
+before signing, and explains failed 402s with actionable fixes. Read-only — never
+holds keys, never broadcasts.
+
+**Highlights**
+- Verified end-to-end on real Base Sepolia + the production `x402.org/facilitator`
+  ([live tx](https://sepolia.basescan.org/tx/0x116ccf73fa77eda19aea149606042f1e848e8afe2f719a0d2890dd2b2ff0ba52))
+- 278 tests · Node 20 + 22 CI matrix · signed npm provenance
+- v0.1 + v0.2 shipped end-to-end in 6 weeks (proxy → reconcile → validate → explain)
+
+**Tech:** TypeScript · Node 20+ · viem · commander · x402 SDKs
+🔗 https://github.com/fardinvahdat/x402trace  ·  https://www.npmjs.com/package/x402trace
+
+---
+
 ### 🎨 Tarah — Layer-based Image Editor
 High-performance web image editor with advanced canvas rendering and offline support.
 
